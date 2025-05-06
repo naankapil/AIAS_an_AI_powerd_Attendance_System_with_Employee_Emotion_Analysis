@@ -35,7 +35,7 @@ Developed by **Kathiramalairajah Kapilaraj**, Sri Lanka.
 1. **Install Python 3.x**  
 2. *(Optional)* Clone repo:  
    ```bash
-   git clone https://github.com/YourUsername/AIAS.git
+   git clone https://github.com/naankapil/AIAS.git
    cd AIAS
    ```
 3. **Setup Environment**  
